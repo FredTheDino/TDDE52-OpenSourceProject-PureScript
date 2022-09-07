@@ -18,26 +18,26 @@ I will classify the project as *hard* in domain knowledge.
 ### Project size
 After running `cloc` on the PureScript repository.
 ```
--------------------------------------------------------------------------------
-Language                     files          blank        comment           code
--------------------------------------------------------------------------------
-Haskell                        220           5391           6901          34574
-PureScript                     965           3874            877           9170
-Markdown                        22           1648              0           4271
-CSS                              2             85            283            799
-yacc                             1            122              0            689
-LESS                             1            166            116            624
-JavaScript                      38             25             20            512
-Bourne Shell                     6             63             95            244
-YAML                             4             47            109            221
-JSON                            14              0              0            194
-make                             1             21             11             47
-dhall                            1              5             10             19
-Text                             1              6              0              9
-XML                              1              0              0              2
--------------------------------------------------------------------------------
-SUM:                          1277          11453           8422          51375
--------------------------------------------------------------------------------
+--------------------------------------------------
+Language       files     blank   comment      code
+--------------------------------------------------
+Haskell          220      5391      6901     34574
+PureScript       965      3874       877      9170
+Markdown          22      1648         0      4271
+CSS                2        85       283       799
+yacc               1       122         0       689
+LESS               1       166       116       624
+JavaScript        38        25        20       512
+Bourne Shell       6        63        95       244
+YAML               4        47       109       221
+JSON              14         0         0       194
+make               1        21        11        47
+dhall              1         5        10        19
+Text               1         6         0         9
+XML                1         0         0         2
+--------------------------------------------------
+SUM:            1277     11453      8422     51375
+--------------------------------------------------
 ```
 
 the project is in total around ~51KLOC, but the project is also written in a
