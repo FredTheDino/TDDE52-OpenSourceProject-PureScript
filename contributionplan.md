@@ -1,5 +1,14 @@
 # Contribution Plan - PureScript, edvth289
 
+# Sprint Planning
+
+## Sprint 1
+  - Setup the development environment
+    - Install and setup Stack and GHC
+    - Setup language servers and IDE support
+    - Try to compile the project
+    - Read trough PR about recent changes to error messages (https://github.com/purescript/purescript/pull/4383)
+
 ## Technical difficulty
 
 ### Build and Test Environment
@@ -8,6 +17,10 @@ The entire project is built using `stack` (the currently hot build system for Ha
 `stack` automatically installs dependencies and the like.
 
 The build system is *easy* (tough `stack` is pretty bad...)
+
+------------
+After further consideration and feedback from the rest of my group, I'm
+cindering the buildsystem to be *medium* in difficulty.
 
 ### Domain knowledge
 The project is a compiler. Compilers are one of the most studied areas in computer science.
