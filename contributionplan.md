@@ -4,10 +4,14 @@
 
 ## Sprint 1
   - Setup the development environment
-    - Install and setup Stack and GHC
-    - Setup language servers and IDE support
-    - Try to compile the project
-    - Read trough PR about recent changes to error messages (https://github.com/purescript/purescript/pull/4383)
+    - [x] Install and setup Stack and GHC
+    - [x] Setup language servers and IDE support
+    - [x] Try to compile the project
+    - [x] Read trough PR about recent changes to error messages (https://github.com/purescript/purescript/pull/4383)
+    - Bellow this is extra stuff
+    - [ ] Formulate a simple change and propose it to the PureScript team
+      - Say which fields mismatched in type errors with records?
+      - Highlight which fields have matched successfully in the overview?
 
 ## Technical difficulty
 
