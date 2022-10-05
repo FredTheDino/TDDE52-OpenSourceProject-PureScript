@@ -8,10 +8,16 @@
     - [x] Setup language servers and IDE support
     - [x] Try to compile the project
     - [x] Read trough PR about recent changes to error messages (https://github.com/purescript/purescript/pull/4383)
-    - Bellow this is extra stuff
-    - [ ] Formulate a simple change and propose it to the PureScript team
+  - Bellow this is extra stuff
+    - [x] Add unit tests to Erlang Map and add some more derives (https://github.com/purerl/purescript-erl-maps/pull/11)
+    - [x] Formulate a simple change and propose it to the PureScript team
       - Say which fields mismatched in type errors with records?
       - Highlight which fields have matched successfully in the overview?
+
+## Sprint 2
+  - [ ] Start making changes and see what I don't understand
+  - [ ] Learn something
+  - [ ] Repeat
 
 ## Technical difficulty
 
