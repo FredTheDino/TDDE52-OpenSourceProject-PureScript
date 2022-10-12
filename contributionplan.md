@@ -15,6 +15,7 @@
       - Highlight which fields have matched successfully in the overview?
 
 ## Sprint 2
+  - [x] Message the maintainers about merging the `Erl.Data.Map` changes
   - [ ] Start making changes and see what I don't understand
   - [ ] Learn something
   - [ ] Repeat
