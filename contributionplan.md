@@ -16,8 +16,13 @@
 
 ## Sprint 2
   - [x] Message the maintainers about merging the `Erl.Data.Map` changes
-  - [ ] Start making changes and see what I don't understand
-  - [ ] Learn something
+  - [x] Start making changes and see what I don't understand
+    - Resulted in (https://github.com/purescript/purescript/pull/4411), is undergoing review but I think it's gonna get merged, it's getting some attention :D
+  - [x] Learn something
+  - [ ] See what needs doing and do it
+    - Accidentally made a treesitter module, needs more work though https://github.com/FredTheDino/tree-sitter-purescript/
+    - Make PureScript into a real programming language: https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/pull/549
+    - 
   - [ ] Repeat
 
 ## Technical difficulty
