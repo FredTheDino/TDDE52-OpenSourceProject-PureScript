@@ -20,10 +20,13 @@
     - Resulted in (https://github.com/purescript/purescript/pull/4411), is undergoing review but I think it's gonna get merged, it's getting some attention :D
   - [x] Learn something
   - [ ] See what needs doing and do it
-    - Accidentally made a treesitter module, needs more work though https://github.com/FredTheDino/tree-sitter-purescript/
+    - Accidentally made (parts of a) treesitter module, needs more work though https://github.com/FredTheDino/tree-sitter-purescript/
     - Make PureScript into a real programming language: https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/pull/549
-    - 
-  - [ ] Repeat
+
+## For next week
+  - [ ] Merge #4411
+  - [ ] Finish the tree sitter
+  - [ ] Start looking at another improvement to the error messages
 
 ## Technical difficulty
 
