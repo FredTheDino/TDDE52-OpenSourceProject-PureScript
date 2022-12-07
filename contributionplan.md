@@ -22,11 +22,12 @@
   - [ ] See what needs doing and do it
     - Accidentally made (parts of a) treesitter module, needs more work though https://github.com/FredTheDino/tree-sitter-purescript/
     - Make PureScript into a real programming language: https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/pull/549
+  - [x] Start looking at another improvement to the error messages
 
 ## For next week
-  - [ ] Merge #4411
-  - [ ] Finish the tree sitter
-  - [ ] Start looking at another improvement to the error messages
+  - [ ] Merge #4411 <- apparently won't be done?
+  - [ ] Finish the tree sitter <- not done
+  - [ ] More revisions on https://github.com/purescript/purescript/pull/4421 
 
 ## Technical difficulty
 
