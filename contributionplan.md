@@ -28,6 +28,7 @@
   - [ ] Merge #4411 <- apparently won't be done?
   - [ ] Finish the tree sitter <- not done
   - [ ] More revisions on https://github.com/purescript/purescript/pull/4421 
+  - [x] Accidentally did this: https://github.com/purerl/purescript-strings/pull/3
 
 ## Technical difficulty
 
