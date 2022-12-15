@@ -9,7 +9,7 @@
   - Large project with lots of areas to contribute to
   - Lots of low hanging fruit
   - Hard to get into
-  - Little support
+  - Support is varying
   - It's a programming language...
   - Would recommend if you've worked on a compiler before or is curious, but maybe not as a first open-source project
 
