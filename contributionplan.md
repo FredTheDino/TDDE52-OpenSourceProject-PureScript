@@ -1,5 +1,19 @@
 # Contribution Plan - PureScript, edvth289
 
+# The aftermath
+
+*Actual valuable changes*
+ - https://github.com/purerl/purescript-strings/pull/3 : MERGED
+ - https://github.com/purerl/purescript-erl-maps/pull/11 : Break changes, people aren't too keen on merging this but they do want it merged
+ - https://github.com/purescript/purescript/pull/4411 : 1/2 approval
+ - https://github.com/purescript/purescript/pull/4421 : Part of a fix, might need more design
+
+*Memes*
+ - https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/pull/549 : 5 community approvals, but not merged
+
+*Stuff that was too large to fully do in this course*
+ - https://github.com/FredTheDino/tree-sitter-purescript/ : Not done but would be a huge contribution, consider it dropped because it was too big
+
 # Sprint Planning
 
 ## Sprint 1
