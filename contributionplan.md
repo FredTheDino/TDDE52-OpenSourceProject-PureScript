@@ -101,7 +101,7 @@ I'd classify the project size as *medium*.
 ### Issue tracker
 The issues have no difficulty markers, though it's probably quite easy to ask in their Discord channel.
 
-I'd guess the project is *medium* difficult with it's issue tracking since the community is quite active
+I'd guess the project is *medium* difficult with its issue tracking since the community is quite active
 and that issues don't really tell the full picture.
 
 ### Documentation
